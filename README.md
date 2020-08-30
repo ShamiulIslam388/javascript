@@ -1,1 +1,1 @@
-##javascript learnin repo
+##javascript learning repo
